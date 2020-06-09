@@ -1,6 +1,6 @@
 module github.com/cnstio/controller
 
-go 1.12
+go 1.13
 
 require (
     github.com/pkg/errors v0.9.1
